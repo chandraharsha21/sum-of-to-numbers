@@ -1,2 +1,11 @@
-# sum-of-to-numbers
-Triangle of length
+
+
+prog :
+
+b = int(input())
+h = int(input())
+area = ( b * h) / 2.
+print("Area of Right Angle Triangle is :");
+print(area);
+
+output 20
